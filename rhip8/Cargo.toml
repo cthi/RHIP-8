@@ -1,0 +1,7 @@
+[package]
+name = "rhip8"
+version = "0.1.0"
+authors = ["Chris Thi <chris.c.thi@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
